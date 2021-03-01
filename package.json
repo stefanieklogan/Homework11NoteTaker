@@ -11,9 +11,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanieklogan/Homework11NoteTaker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/stefanieklogan/Homework11NoteTaker/issues"
+  },
+  "homepage": "https://github.com/stefanieklogan/Homework11NoteTaker#readme"
 }
