@@ -14,7 +14,15 @@
 
 * Walk-thru video: xxxxxxxx
 
-![Homepage image1](xxxxxxxxxxxxxxxx)
+![Homepage image1](https://github.com/stefanieklogan/Homework11NoteTaker/blob/main/public/assets/photos/index.JPG)
+
+User interface - create, save and delete notes
+
+![Notes image1](https://github.com/stefanieklogan/Homework11NoteTaker/blob/main/public/assets/photos/notes.JPG)
+
+JSON notes storage
+
+![Notes image2](https://github.com/stefanieklogan/Homework11NoteTaker/blob/main/public/assets/photos/apiNotes.JPG)
 
 <a name="overview"></a>
 ## Project overview
