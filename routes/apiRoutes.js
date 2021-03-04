@@ -1,4 +1,5 @@
 const path = require('path');
+const { v4: uuidv4 } = require('uuid');
 let dbJSON = require('../db/db.json');
 let fs = require('fs');
 
@@ -10,7 +11,7 @@ app.get('/api/notes', (req, res) => {
 
 app.post('/api/notes', (req, res) => { 
     const newNote = req.body;
-    req.body.id = dbJSON.length;
+    req.body.id = uuidv4();
     dbJSON.push(newNote);
     console.log(dbJSON);
 
