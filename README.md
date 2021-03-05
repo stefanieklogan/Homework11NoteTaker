@@ -12,7 +12,7 @@
 
 * Homepage: https://stark-anchorage-18692.herokuapp.com/
 
-* Walk-thru video: xxxxxxxx
+* Walk-thru video: https://drive.google.com/file/d/1oLTtF9x8WkhXGwUf6YieXU9K6heei_cz/view
 
 ![Homepage image1](https://github.com/stefanieklogan/Homework11NoteTaker/blob/main/public/assets/photos/index.JPG)
 
